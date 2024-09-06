@@ -1,4 +1,4 @@
-class Methods:
+class METHODS_ENUM:
 
     SUB = "SUB"
     UNSUB = "UNSUB"

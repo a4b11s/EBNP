@@ -8,10 +8,10 @@ from .enums import args_type, methods
 
 from .modules.event import Event
 from .enums.args_type import TYPES_ENUM
-from .enums.methods import Methods
+from .enums.methods import METHODS_ENUM
 
 
 __author__ = "Artem Bazyl"
 __license__ = "MIT"
 __version__ = "0.0.1"
-__all__ = ["event", "args_type", "Event", "TYPES_ENUM", "methods", "Methods"]
+__all__ = ["event", "args_type", "Event", "TYPES_ENUM", "methods", "METHODS_ENUM"]
