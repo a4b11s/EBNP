@@ -7,7 +7,6 @@
 - EMIT: emit a specific event
 - CHECK: check if a specific event has been emitted
 - ADD: add an event for submission
-- GETALL: get all events
 
 ## Protocol:
 
