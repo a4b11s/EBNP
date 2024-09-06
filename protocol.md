@@ -11,4 +11,4 @@
 
 ## Protocol:
 
-[method] [eventid] [body]
+[method] [eventid] [args]
